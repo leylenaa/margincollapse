@@ -1,0 +1,23 @@
+.section-one{
+    width: 10rem;
+    height: 8rem;
+    border: solid bisque ;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: hsla(175, 42%, 66%, 0.288);
+    
+}
+.section-two{
+    width: 10rem;
+    height: 8rem;
+    border: solid yellow;
+    border-radius: 5px;
+    padding: 20px;
+    margin:  30px 20px;
+    background-color: hsl(0, 19%, 82%);
+}
+.h1{
+    text-align: center;
+    margin: 50px;
+}
